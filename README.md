@@ -12,7 +12,7 @@ An undergraduate student in Statistics who loves technology, data, and artificia
    <a href="https://www.minitab.com/en-us/"><img align="left" alt="JavaScript" title="Minitab" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" /></a>
    <a href="https://www.elastic.co/elasticsearch/"><img align="left" alt="JavaScript" title="Elasticsearch" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" /></a>
    <a href="https://www.elastic.co/kibana/"><img align="left" alt="JavaScript" title="Kibana" width="40px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" /></a>
-  <a href="https://www.ibm.com/products/spss-statistics"><img align="left" alt="JavaScript" title="SPSS" width="50px" src="https://img2.pngdownload.id/20180403/ucw/kisspng-spss-modeler-ibm-data-analysis-statistics-ibm-5ac3eb63098ca4.6989108715227892190391.jpg" /></a>
+  <a href="https://www.ibm.com/products/spss-statistics"><img align="left" alt="JavaScript" title="SPSS" width="40px" src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" /></a>
    
   <br>
   <br>
