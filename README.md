@@ -2,7 +2,7 @@
 
 Statistics graduate who loves technology, data, and artificial intelligence. I've enjoyed Python to scrape website or to make some AI project.
 
-- 🌱 I'm currently final year student on <a href="https://www.its.ac.id/statistika/en/home/">Statistics</a>, <a href="https://www.its.ac.id/">Institut Teknologi Sepuluh Nopember</a>. 
+- 🌱 Graduated from <a href="https://www.its.ac.id/statistika/en/home/">Statistics</a>, <a href="https://www.its.ac.id/">Institut Teknologi Sepuluh Nopember</a>. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nanda-novenia-sh">@Linkedin_Nanda</a>. 
 - ⚡ Fun fact: loves cat and film.
 
